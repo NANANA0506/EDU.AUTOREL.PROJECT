@@ -1,16 +1,16 @@
-import React, {useState} from "react";
+import React, { useState } from "react";
 import styled from "styled-components";
 
 const ImageView = () => {
-    ////////////// STATE //////////////
+  ////////////// STATE //////////////
 
-    ////////////// HOOKS //////////////
+  ////////////// HOOKS //////////////
 
-    ////////////// EFFECT //////////////
+  ////////////// EFFECT //////////////
 
-    ////////////// HANDLER //////////////
-    
-    return <div>ImageView</div>;
+  ////////////// HANDLER //////////////
+
+  return <div>ImageView</div>;
 };
 
 export default ImageView;
